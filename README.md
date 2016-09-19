@@ -1,6 +1,6 @@
 Name: Alex Gaesser
 
-Compilation and Run Successful: The program was able to compile and run properly. I entered boy positive
+Compilation and Run Successful: The program was able to compile and run properly. I entered both positive
 and negative values.
 
 Unit Test Run Successfully: The MainActivity tests ran 1 of 1 tests successfully.
