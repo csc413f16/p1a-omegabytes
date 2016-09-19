@@ -1,8 +1,9 @@
-Name:
+Name: Alex Gaesser
 
-Compilation and Run Successful:
+Compilation and Run Successful: The program was able to compile and run properly. I entered boy positive
+and negative values.
 
-Unit Test Run Successfully:
+Unit Test Run Successfully: The MainActivity tests ran 1 of 1 tests successfully.
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
